@@ -11,3 +11,5 @@ The Mushroom Classification dataset from Kaggle includes 54035 instances of mush
 4) Visualization: Visual representation of the data and the model's performance using plots and charts.  
 # Usage
 To use this repository, clone the repository and run the notebook making sure the datasets used are in the same folder as the notebook.
+# Acknowledgements
+Thanks to Kaggle for providing the Mushroom Classification dataset: (https://www.kaggle.com/datasets/prishasawhney/mushroom-dataset)
